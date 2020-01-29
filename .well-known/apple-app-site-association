@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "B7K45QT6UB.com.zulutrade.ZuluTrade-qa",
+        "paths": ["/trader/*/trading*"]
+      },
+      {
+        "appID": "B7K45QT6UB.com.zulutrade.ZuluTrade-staging",
+        "paths": ["/trader/*/trading*"]
+      },
+      {
+        "appID": "B7K45QT6UB.com.zulutrade.ZuluTrade-development",
+        "paths": ["/trader/*/trading*"]
+      }
+    ]
+  }
+}
